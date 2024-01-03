@@ -1,0 +1,8 @@
+{
+  "(your `platform.node()`)": {
+    "python_bin": "python"
+  },
+  "amax-vlis7": {
+    "python_bin": "python"
+  }
+}
